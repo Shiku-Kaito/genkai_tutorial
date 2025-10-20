@@ -4,6 +4,7 @@
 Create an environment using
 ```
 ssh genkai
+mkdir /home/プロジェクトID/スーパーコンピュータアカウント/genkai-tutorial
 cd genkai-tutorial
 conda create -n genkai python=3.9
 conda activate genkai
