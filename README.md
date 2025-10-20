@@ -5,6 +5,7 @@ Create an environment using
 ```
 ssh genkai
 cd /home/プロジェクトID/スーパーコンピュータアカウント/genkai-tutorial
+bash ./miniconda_setup.sh
 conda create -n genkai python=3.9
 conda activate genkai
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
