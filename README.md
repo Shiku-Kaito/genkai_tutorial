@@ -4,7 +4,7 @@
 Create an environment using
 ```
 ssh genkai
-cd /home/プロジェクトID/スーパーコンピュータアカウント/genkai-tutorial
+cd /home/プロジェクトID/スーパーコンピュータアカウント/genkai_tutorial
 bash ./miniconda_setup.sh
 source ~/.bashrc
 conda create -n genkai python=3.9
